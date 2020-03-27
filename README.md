@@ -1,4 +1,4 @@
-# Emojifinder #
+# Emojifind #
 
 Fuzzy finder for emojis.
 
