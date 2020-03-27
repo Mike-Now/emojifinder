@@ -20,4 +20,4 @@ if ! zgen saved; then
 fi
 ```
 
-You can now search emojies from the comfort of your command line by pressing <Ctrl-S> !
+You can now search emojies from the comfort of your command line by pressing `<Ctrl-S>` !
